@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^15.12.0"
+  },
+  "dependencies": {
+    "haversine-distance": "^1.2.1"
+  }
+}
