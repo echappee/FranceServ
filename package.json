@@ -1,6 +1,10 @@
 {
   "devDependencies": {
-    "@types/node": "^15.12.0"
+    "@nuxtjs/style-resources": "^1.1.0",
+    "@types/node": "^15.12.0",
+    "fibers": "^5.0.0",
+    "sass": "^1.34.1",
+    "sass-loader": "^10.2.0"
   },
   "dependencies": {
     "haversine-distance": "^1.2.1"
